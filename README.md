@@ -1,2 +1,3 @@
 # Fractal-explorer
-Render fractals with webGl 
+Render fractals with webGL.
+This project is in progress.
